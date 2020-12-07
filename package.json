@@ -8,8 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.0",
+    "axios-hooks": "^2.2.0",
+    "clsx": "^1.1.1",
+    "mongoose": "^5.11.2",
     "next": "10.0.3",
+    "public-ip": "^4.0.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/custom-forms": "^0.2.1",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.13",
+    "tailwindcss": "^2.0.1"
   }
 }
